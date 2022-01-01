@@ -19,7 +19,7 @@ I'm currently active in course as Trainee at <a href="https://juaracoding.com/">
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/alpharouqi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alpharouqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" weight="300em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alpharouqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alpharouqi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
