@@ -2,10 +2,8 @@
 
 An Trainee Developer who still learn to create many projects about all language! I've enjoyed HTML and CSS and make it in creating a project.
 
-I'm currently active in course as Trainee at <a href="https://juaracoding.com/">JuaraCoding</a> to learn courses in System Quality Assurance.
-
-- 🔭 I’m currently working on <a href="https://juaracoding.com/">JuaraCoding</a>.
-- 🌱 I’m currently learning about System Quality Assurance courses.
+- 🔭 I’m currently working at <a href="https://farisalfaruq.my.id/">...</a>.
+- 🌱 I’m currently learning about Data Science courses.
 - 💬 Feel free to ask me about myself.
 - 📫 How to reach me: farisulfaruq@gmail.com or <a href="https://farisalfaruq.my.id/">Faris Al Faruq</a>.
 
